@@ -1,0 +1,7 @@
+import random
+print('Hello... ')
+
+input('Press Enter to get a random number between 1-1000... ')
+
+print(random.randint(0, 1000))
+
